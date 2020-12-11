@@ -1,0 +1,73 @@
+@media (max-width: 500px) {
+    textarea {
+      height: 100px;
+      line-height:1.25;
+    }
+    button {
+    
+        background-color:#000000;
+        cursor:pointer;
+        color:#00ff00;
+        font-family:Arial;
+        font-size:50px;
+        padding:50px 60px;
+        text-decoration:none;
+    }
+    }
+    
+    .button0 {
+      font-size:20px;
+      padding:50px 60px;
+    }
+
+  textarea {
+    background-image: url("download.jpg");
+    border: 1px solid #000;
+    color: #00ff00;
+    padding: 8px;
+    font-family: courier new;
+}
+
+body {
+    background-image: url("http://netzone83.files.wordpress.com/2012/10/anim1.gif"); 
+}
+
+input {
+    background-color: #000;
+    color: #00ff00;
+}
+
+button {
+	background-color:#000000;
+	cursor:pointer;
+	color:#00ff00;
+	font-family:Arial;
+	font-size:25px;
+	padding:7px 8px;
+	text-decoration:none;
+}
+button:active {
+	position:relative;
+	top:1px;
+}
+p
+{
+    text-align: center;
+}
+
+.buttton
+{
+	font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+    font-size: x-large;
+    color: white
+}
+
+body
+{
+    text-align: center;
+}
+
+button
+{
+	text-align: center;
+}
