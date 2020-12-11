@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-image: url("https://th.bing.com/th/id/OIP.LrhYoCGebYI81KQAy1Kk2QHaEK?o=6&pid=Api&w=1920&h=1080&rs=1"); 
+}
+h1 {
+    color: red;
+}
+    button {
+    
+        background-color:#000000;
+        cursor:pointer;
+        color:#00ff00;
+        font-family:Arial;
+        font-size:50px;
+        padding:50px 60px;
+        text-decoration:none;
+    }
